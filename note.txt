@@ -1,0 +1,22 @@
+//thanh toán: click thanh toán -> show hóa đơn
+
+
+//=>XÓA-> giao diện xóa, db không phép xóa, chỉ thay đổi trạng thái
+
+//NV01 - Nguyen Van A - Dia chi -SDT - flag/status: 1 -> 0
+
+//Sửa form chi tiết bàn 
+
+//Khi bấm lưu thêm report ở formMenu
+
+//Thêm thuộc tính db Món Ăn
+
+//Thêm thuộc tính db Nhân Viên
+
+//Đồng bộ dtp theo custom
+
+//Thêm thanh tìm kiếm ở lịch sử hóa đơn
+
+//Thêm xem từ ngày đến ngày ở lịch sử hóa đơn
+
+đổi lịch sử hóa đơn thành report

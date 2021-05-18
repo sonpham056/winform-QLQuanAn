@@ -1,0 +1,3 @@
+trước khi sử dụng git: git init
+git add .
+commit : git commit -m "ten commit"

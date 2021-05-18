@@ -1,0 +1,327 @@
+D:\Hoctap\winform\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+D:\Hoctap\winform\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+D:\Hoctap\winform\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+D:\Hoctap\winform\QuanLyQuanAn\bin\Debug\EntityFramework.dll
+D:\Hoctap\winform\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoctap\winform\QuanLyQuanAn\bin\Debug\EntityFramework.xml
+D:\Hoctap\winform\QuanLyQuanAn\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmMain.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmAdmin.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmChinhSuaNV.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmChinhSuaMonAn.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmHoaDon.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmCTBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmMenu.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmLichSu.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyKhachHang.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyMatKhau.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmDoiMatKhau.resources
+D:\Hoctap\winform\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.GUI.FrmChuyenBan.resources
+D:\Đồ Án\winform\WinForm\bin\Debug\QuanLyQuanAn.exe.config
+D:\Đồ Án\winform\WinForm\bin\Debug\QuanLyQuanAn.exe
+D:\Đồ Án\winform\WinForm\bin\Debug\QuanLyQuanAn.pdb
+D:\Đồ Án\winform\WinForm\bin\Debug\EntityFramework.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\EntityFramework.xml
+D:\Đồ Án\winform\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmAdmin.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmBan.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmChinhSuaMonAn.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmChinhSuaNV.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmChuyenBan.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmCTBan.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmDoiMatKhau.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmHoaDon.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmLichSu.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmMain.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmMenu.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyKhachHang.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyMatKhau.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.exe
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.pdb
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmNhanVien.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmChamCong.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\QuanLyQuanAn.exe.config
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\QuanLyQuanAn.exe
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\QuanLyQuanAn.pdb
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\EntityFramework.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\EntityFramework.xml
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmAdmin.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmChamCong.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmChinhSuaMonAn.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmChinhSuaNV.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmChuyenBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmCTBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmDoiMatKhau.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmHoaDon.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmLichSu.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmMain.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmMenu.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmNhanVien.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyKhachHang.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyMatKhau.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.exe
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.pdb
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmDatBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmPhieuDatBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmKhachHang.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmKhachHangXemBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmKhachHangXemMenu.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.FrmKhachHangXemDatBan.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.FrmKhachHangXemDatBan.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmDatBan.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmKhachHang.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmKhachHangXemBan.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmKhachHangXemMenu.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmPhieuDatBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\EnvDTE.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\stdole.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\Microsoft.MSXML.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\RdlCompile.cache
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\RdlCompile.compiled
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmReportHoaDon.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmReportTongKetHoaDon.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+D:\Đồ Án\winform\WinForm\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\EnvDTE.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\stdole.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\Microsoft.MSXML.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmReportHoaDon.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmReportTongKetHoaDon.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\RdlCompile.cache
+D:\Đồ Án\winform\WinForm\obj\Debug\RdlCompile.compiled
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmLichSuDatBan.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmLichSuDatBan.resources
+D:\Hoctap\winform\QuanLyQuanAn\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyChamCong.resources
+D:\Đồ Án\winform\WinForm\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyChamCong.resources
+D:\Hoctap\winform\winform\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Hoctap\winform\winform\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Hoctap\winform\winform\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Hoctap\winform\winform\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Hoctap\winform\winform\bin\Debug\QuanLyQuanAn.exe.config
+D:\Hoctap\winform\winform\bin\Debug\QuanLyQuanAn.exe
+D:\Hoctap\winform\winform\bin\Debug\QuanLyQuanAn.pdb
+D:\Hoctap\winform\winform\bin\Debug\EntityFramework.dll
+D:\Hoctap\winform\winform\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Hoctap\winform\winform\bin\Debug\EnvDTE.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Hoctap\winform\winform\bin\Debug\stdole.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Hoctap\winform\winform\bin\Debug\Microsoft.MSXML.dll
+D:\Hoctap\winform\winform\bin\Debug\EntityFramework.xml
+D:\Hoctap\winform\winform\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hoctap\winform\winform\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.FrmKhachHangXemDatBan.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmAdmin.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmBan.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmChamCong.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmChinhSuaMonAn.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmChinhSuaNV.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmChuyenBan.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmCTBan.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmDatBan.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmDoiMatKhau.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmHoaDon.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmKhachHang.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmKhachHangXemBan.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmKhachHangXemMenu.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmLichSu.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmLichSuDatBan.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmMain.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmMenu.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmNhanVien.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmPhieuDatBan.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyChamCong.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyKhachHang.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmQuanLyMatKhau.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmReportHoaDon.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.GUI.FrmReportTongKetHoaDon.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+D:\Hoctap\winform\winform\obj\Debug\RdlCompile.cache
+D:\Hoctap\winform\winform\obj\Debug\RdlCompile.compiled
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.csproj.CopyComplete
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.exe
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.pdb
+D:\Hoctap\winform\winform\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
